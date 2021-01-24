@@ -11,7 +11,8 @@ double calculate_row_sum(double** matrix, int size);
 void average(double element1, double element2);
 void delete_matrix(double** matrix, int size);
 
-int main() {
+int main() 
+{
     printf("Vasyliv Bohdan, IS-01, V.6\n");
     srand(time(NULL));
 
