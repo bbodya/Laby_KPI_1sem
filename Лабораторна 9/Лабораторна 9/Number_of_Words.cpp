@@ -36,5 +36,5 @@ void count_numberOf_words(string start_symbols, string line) {
         }
     }
 
-    cout << endl <<"Number of suitable words:"<< count;
+    cout << endl <<"Number of suitable words"<< count;
 }
